@@ -1,0 +1,13 @@
+.leftcontainer{
+  display: flex;
+  flex-direction: column;
+}
+.leftitem{
+  margin-top: 25px;
+}
+.outer{
+  display: flex;
+}
+.dist{
+  margin-left: auto;
+}
